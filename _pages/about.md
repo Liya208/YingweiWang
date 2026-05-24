@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. 中南大学物理学院 超快非线性
 
 profile:
   align: right
-  image: wyy.jpg
+  image: yww.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>e-mail:wyw1988@csu.edu.cn</p>
