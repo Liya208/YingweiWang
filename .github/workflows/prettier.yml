@@ -2,21 +2,19 @@ name: Prettier code formatter
 
 on:
   pull_request:
-    branches:
-      - master
-      - main
+    branches: [master, main]
   push:
-    branches:
-      - master
-      - main
+    branches: [master, main]
 
-# 授予写入权限，以便推送修复
 permissions:
   contents: write
+  workflows: write
 
 jobs:
   format:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -31,10 +29,7 @@ jobs:
         run: npx prettier . --write
 
       - name: Commit changes 📝
-        # 只在 push 事件时提交，避免 PR 中直接修改源分支（可按需调整）
         if: github.event_name == 'push'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'style: apply Prettier formatting'
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
