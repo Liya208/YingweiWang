@@ -532,7 +532,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/YingweiWang/feed.xml", "_blank");
+          window.open("/YingweiWang//feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

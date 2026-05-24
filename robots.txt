@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Liya208.github.io/YingweiWang/sitemap.xml
+Sitemap: https://Liya208.github.io/YingweiWang//sitemap.xml
