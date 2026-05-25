@@ -1,5 +1,7 @@
 Team Member Introduction:
 
+**Quan Long**
+
 Master's Student, Class of 2024
 Email: quanlong@csu.edu.cn
 
