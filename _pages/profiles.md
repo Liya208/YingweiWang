@@ -25,7 +25,7 @@ profiles:
       <p>Class of 2021 Graduated</p>
       <p>Teacher at Xiangnan University</p>
       <p>jlkang@csu.edu.cn</p>
-       - align: right
+    - align: right
     image: prof_pic.jpg
     content: about_zl.md
     image_circular: false # crops the image to make it circular
@@ -33,4 +33,36 @@ profiles:
       <p>Class of 2021 Graduated</p>
       <p>Teacher at Anhui Normal University</p>
       <p>li_zhou@csu.edu.cn</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_asad.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Class of 2022 Graduated</p>
+      <p>Ph.D. student at Zhengzhou University</p>
+      <p>ahmedaxad910@gmail.com</p>
+    - align: right
+    image: prof_pic.jpg
+    content: about_syj.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ph.D. Student, Class of 2025</p>
+      <p>syj1008@csu.edu.cn</p>
+      <p></p>
+    - align: left
+    image: prof_pic.jpg
+    content: about_lx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master's Student, Class of 2023</p>
+      <p>Joint Cultivation from Xinjiang University</p>
+      <p>xin_li@stu.xju.edu.cn</p>
+    - align: right
+    image: prof_pic.jpg
+    content: about_lq.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master's Student, Class of 2024</p>
+      <p>quanlong@csu.edu.cn</p>
+      <p></p>
 ---
