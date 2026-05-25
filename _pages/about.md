@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 中南大学物理学院 超快非线性光学课题组 
+subtitle: <a href='#'>Affiliations</a>. Ultrafast Nonlinear Optics Research Group, School of Physics, Central South University
 
 profile:
   align: right
