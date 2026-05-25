@@ -18,7 +18,7 @@ profiles:
       <p>Postdoctoral Fellow at Institute of Physics, Chinese Academy of Sciences</p>
       <p>wangyd@csu.edu.cn</p>
   - align: left
-    image: prof_pic.jpg
+    image: kjl.jpg
     content: about_kjl.md
     image_circular: false # crops the image to make it circular
     more_info: >
