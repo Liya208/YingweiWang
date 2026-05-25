@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/YingweiWang/teaching/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/YingweiWang/people/";
+          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
