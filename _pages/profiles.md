@@ -14,15 +14,23 @@ profiles:
     content: about_wyd.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Class of 2020 **Graduated**</p>
-      <p>**Postdoctoral Fellow at Institute of Physics, Chinese Academy of Sciences**</p>
+      <p>Class of 2020 Graduated</p>
+      <p>Postdoctoral Fellow at Institute of Physics, Chinese Academy of Sciences</p>
       <p>wangyd@csu.edu.cn</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_kjl.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Class of 2021 Graduated</p>
+      <p>Teacher at Xiangnan University</p>
+      <p>jlkang@csu.edu.cn</p>
+       - align: right
+    image: prof_pic.jpg
+    content: about_zl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Class of 2021 Graduated</p>
+      <p>Teacher at Anhui Normal University</p>
+      <p>li_zhou@csu.edu.cn</p>
 ---
