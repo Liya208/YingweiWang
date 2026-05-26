@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Areas & Equipment Information
-permalink: /projects/
+title: Research Areas & Equipment
+permalink: /Research Areas & Equipment/
 description: 
 nav: true
 nav_order: 3
