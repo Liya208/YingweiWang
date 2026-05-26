@@ -1,5 +1,7 @@
 Team Member Introduction:
 
+**Xianming Zhong**
+
 Master's Student, Class of 2024
 Email: xmzhong@csu.edu.cn
 
