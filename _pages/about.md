@@ -38,3 +38,5 @@ He is the Head of the Optics Group of the Hunan Provincial Key Laboratory of Ult
 **Welcome undergraduate students, master's students, doctoral students, and postdoctoral fellows to join our research group!!!** 
 
 The group fosters a strong scientific research atmosphere: rigorous and focused during work, brainstorming during group meetings, and collaborative problem-solving in the face of challenges. There is no unhealthy internal competition, only mutual support, allowing everyone to delve deeply into research and grow in a relaxed and pleasant environment.
+
+image: ktz.jpg
