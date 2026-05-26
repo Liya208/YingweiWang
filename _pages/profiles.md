@@ -65,4 +65,68 @@ profiles:
       <p>Master's Student, Class of 2024</p>
       <p>quanlong@csu.edu.cn</p>
       <p></p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_lfy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master's Student, Class of 2024</p>
+      <p></p>
+      <p>lifengyu@csu.edu.cn</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_zxm.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master's Student, Class of 2024</p>
+      <p>xmzhong@csu.edu.cn</p>
+      <p></p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_fyq.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master's Student, Class of 2025</p>
+      <p></p>
+      <p>252211040@csu.edu.cn</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_yq.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master's Student, Class of 2025</p>
+      <p>252211030@csu.edu.cn</p>
+      <p></p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_zwx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Undergraduate Student, Class of 2020</p>
+      <p>Graduated</p>
+      <p>1407210125@csu.edu.cn</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_chl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Undergraduate Student, Class of 2022</p>
+      <p>changhaolin@csu.edu.cn</p>
+      <p></p>  
+  - align: left
+    image: prof_pic.jpg
+    content: about_dmx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Undergraduate Student, Class of 2023</p>
+      <p></p>
+      <p>1401230103@csu.edu.cn</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_zcx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Undergraduate Student, Class of 2023</p>
+      <p>8206230727@csu.edu.cn</p>
+      <p></p>
 ---
