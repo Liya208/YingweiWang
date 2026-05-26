@@ -1,6 +1,7 @@
 Team Member Introduction
 
 **Jianlong Kang**
+
 Ph.D., Class of 2021
 Email: jlkang@csu.edu.cn
 
