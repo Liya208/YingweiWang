@@ -100,52 +100,285 @@ cv:
         summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-     - title: "Photoinduced Interfacial Charge Transfer Tailors Second-Harmonic Generation in NbSe2-MoS2 Heterostructures"
-       authors:
-         - "Li Zhou"
-         - "Yiduo Wang"
-         - "Xin Li"
-         - "Jianlong Kang"
-         - "Yujian Song"
-         - "Haolin Chang"
-         - "Wanxin Zheng"
-         - "Bei Zhang"
-         - "Mianzeng Zhong"
-         - "Zhihui Chen"
-         - "Han Huang"
-         - "Si Xiao"
-         - "Yingwei Wang*"
-         - "Jun He*"
-       publisher: Nano Letters
-       releaseDate: 2026-01-31
-       url: https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04871  # Link1 placeholder, actual URL not provided
-       summary: "Published in Nano Letters, 2026, 26, 5, 1766–1773. IF: 9.9."
-
-       - title: "Plasmon-driven Ultrafast and Highly Efficient Saturable Absorption for Ultrashort Pulse Generation in ultra-thin MXenes"
-         authors:
-           - "Yingwei Wang*"
-           - "Li Zhou"
-           - "Quan Long"
-           - "Xin Li"
-           - "Haolin Chang"
-           - "Ning Li"
-           - "Yiduo Wang*"
-           - "Bei Zhang"
-           - "Zhihui Chen"
-           - "Zhongjian Yang"
-           - "Si Xiao"
-           - "Chujun Zhao*"
-           - "Shuangchun Wen"
-           - "Jun He*"
-       publisher: Advanced Optical Materials
-       releaseDate: 2026-02-06
-       url: https://onlinelibrary.wiley.com/doi/10.1002/adom.202503585  # placeholder
-       summary: "Published in Advanced Optical Materials, 2026, 14, e03585. IF: 8.2."
+  - title: Photoinduced Interfacial Charge Transfer Tailors Second-Harmonic Generation in NbSe2-MoS2 Heterostructures
+    authors:
+      - Li Zhou
+      - Yiduo Wang
+      - Xin Li
+      - Jianlong Kang
+      - Yujian Song
+      - Haolin Chang
+      - Wanxin Zheng
+      - Bei Zhang
+      - Mianzeng Zhong
+      - Zhihui Chen
+      - Han Huang
+      - Si Xiao
+      - Yingwei Wang*
+      - Jun He*
+    publisher: Nano Letters
+    releaseDate: 2026-01-31
+    url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04871"
+    summary: "Published in Nano Letters, 2026, 26, 5, 1766–1773. IF: 9.9."
+  - title: Plasmon-driven Ultrafast and Highly Efficient Saturable Absorption for Ultrashort Pulse Generation in ultra-thin MXenes
+    authors:
+      - Yingwei Wang*
+      - Li Zhou
+      - Quan Long
+      - Xin Li
+      - Haolin Chang
+      - Ning Li
+      - Yiduo Wang*
+      - Bei Zhang
+      - Zhihui Chen
+      - Zhongjian Yang
+      - Si Xiao
+      - Chujun Zhao*
+      - Shuangchun Wen
+      - Jun He*
+    publisher: Advanced Optical Materials
+    releaseDate: 2026-02-06
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/adom.202503585"
+    summary: "Published in Advanced Optical Materials, 2026, 14, e03585. IF: 8.2."
+  - title: Quaternary Phosphonium Bromide Passivation for High-Performance Perovskite Quantum Dot Light-Emitting Diodes
+    authors:
+      - Wanying Zhang
+      - Kaihuai Zhuo
+      - Jie Chen
+      - Tongtong Wang
+      - Xuanyang He
+      - Mengjie Li
+      - Weilin Gao
+      - Yiran Zhao
+      - Xue Yang
+      - Zhuoyin Peng
+      - Xiaoyu Zhang
+      - Yingwei Wang*
+      - Keqiang Chen*
+      - Guogang Li*
+    publisher: Journal of Colloid and Interface Science
+    releaseDate: 2026-01-30
+    url: "https://www.sciencedirect.com/science/article/pii/S002197972600052X"
+    summary: "Published in Journal of Colloid and Interface Science, 2026, 140017. IF: 9.7."
+  - title: Observation of polaronic state assisted sub-bandgap saturable absorption
+    authors:
+      - Li Zhou
+      - Yiduo Wang
+      - Jianlong Kang
+      - Xin Li
+      - Quan Long
+      - Xianming Zhong
+      - Zhihui Chen
+      - Chuanjia Tong
+      - Keqiang Chen
+      - Zi-Lan Deng
+      - Zhengwei Zhang
+      - Chuan-Cun Shu
+      - Yongbo Yuan
+      - Xiang Ni
+      - Si Xiao
+      - Xiangping Li
+      - Yingwei Wang*
+      - Jun He*
+    publisher: Opto-Electronic Advances
+    releaseDate: 2025-06-19
+    url: "https://www.oejournal.org/article/doi/10.29026/oea.2025.240312"
+    summary: "Published in Opto-Electronic Advances, 2025, 8, 240312. IF: 22.4."
+  - title: Two-dimensional atomic crystals for third-order nonlinear optical modulation
+    authors:
+      - Li Zhou#
+      - Fengyu Li#
+      - Zhou Lu
+      - Yingwei Wang*
+      - Jun He*
+    publisher: Chinese Journal of Structural Chemistry
+    releaseDate: 2025-10-18
+    url: "https://doi.org/10.1016/j.cjsc.2025.100772"
+    summary: "Invited review. Published in Chinese Journal of Structural Chemistry, 2025, DOI:10.1016/j.cjsc.2025.100772. IF: 10.3."
+  - title: Interfacial Charge Transfer for Enhancing Nonlinear Saturable Absorption in WS2/graphene Heterostructure
+    authors:
+      - Yiduo Wang
+      - Yingwei Wang*
+      - Changyong Lan
+      - Li Zhou
+      - Jianlong Kang
+      - Wanxin Zheng
+      - Tianyu Xue
+      - Yejun Li
+      - Xiaoming Yuan
+      - Si Xiao
+      - Heping Li*
+      - Jun He*
+    publisher: Advanced Science
+    releaseDate: 2024-01-24
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/advs.202306096"
+    summary: "Published in Advanced Science, 2024, 11, 2306096. IF: 17.52, Q1."
+  - title: 2D Nb2CTx MXene/MoS2 heterostructure construction for nonlinear optical absorption modulation
+    authors:
+      - Yiduo Wang
+      - Yingwei Wang*
+      - Yulan Dong
+      - Li Zhou
+      - Jianlong Kang
+      - Ning Wang
+      - Yejun Li
+      - Xiaoming Yuan
+      - Zhengwei Zhang
+      - Han Huang
+      - Mengqiu Long
+      - Si Xiao
+      - Jun He*
+    publisher: Opto-Electronic Advances
+    releaseDate: 2023-04-25
+    url: "https://www.oejournal.org/article/doi/10.29026/oea.2023.220162"
+    summary: "Published in Opto-Electronic Advances, 2023, 6, 220162. IF: 22.4."
+  - title: Atomically Thin Noble Metal Dichalcogenides for Phase-Regulated Meta-optics
+    authors:
+      - Yingwei Wang#
+      - Zi-Lan Deng#
+      - Dejiao Hu#
+      - Jian Yuan
+      - Qingdong Ou
+      - Fei Qin
+      - Yinan Zhang
+      - Xu Ouyang
+      - Yue Li
+      - Bo Peng
+      - Yaoyu Cao
+      - BaiOu Guan
+      - Yupeng Zhang
+      - Jun He
+      - Cheng-Wei Qiu
+      - Qiaoliang Bao*
+      - Xiangping Li*
+    publisher: Nano Letters
+    releaseDate: 2020-08-24
+    url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.0c02882"
+    summary: "Published in Nano Letters, 2020, 20, 11, 7811-7818. IF: 12.262, Q1."
+  - title: Smart Acid-Activatable Self-assembly of Black Phosphorous as Photosensitizer to Overcome Poor Tumor Retention in Photothermal Therapy
+    authors:
+      - Yingwei Wang#
+      - Jianlei Xie#
+      - Jianlong Kang#
+      - Wonseok Choi
+      - Paramesh Jangili
+      - Bin Zhang
+      - Ni Xie
+      - Guohui Nie
+      - Jun He
+      - Han Zhang*
+      - Liping Liu*
+      - Jong Seung Kim*
+    publisher: Advanced Functional Materials
+    releaseDate: 2020-08-23
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/adfm.202003338"
+    summary: "Published in Advanced Functional Materials, 2020, 2003338. IF: 19.924, Q1."
+  - title: Niobium Carbide MXenes with Broad-Band Nonlinear Optical Response and Ultrafast Carrier Dynamics
+    authors:
+      - Yiduo Wang#
+      - Yingwei Wang#
+      - Keqiang Chen
+      - Kun Qi
+      - Tianyu Xue
+      - Han Zhang
+      - Jun He*
+      - Si Xiao*
+    publisher: ACS Nano
+    releaseDate: 2020-07-20
+    url: "https://pubs.acs.org/doi/10.1021/acsnano.0c04710"
+    summary: "Published in ACS Nano, 2020, 14, 10492-10502. IF: 18.027, Q1."
+  - title: Overcoming barriers in photodynamic therapy harnessing nano-formulation strategies
+    authors:
+      - Jianlei Xie#
+      - Yingwei Wang#
+      - Wonseok Choi#
+      - Paramesh Jangili#
+      - Yunjie Xu
+      - Jianlong Kang
+      - Liping Liu
+      - Bin Zhang
+      - Zhongjian Xie
+      - Jun He
+      - Ni Xie*
+      - Guohui Nie
+      - Han Zhang*
+      - Jong Seung Kim*
+    publisher: Chemical Society Review
+    releaseDate: 2021-07-05
+    url: "https://pubs.rsc.org/en/content/articlelanding/2021/cs/d0cs00736g"
+    summary: "Published in Chemical Society Review, 2021, 50, 9152-9201. IF: 60.615, Q1."
+  - title: "2D Transition metal carbides (MXenes) for third order nonlinear optics: status and prospects"
+    authors:
+      - Yiduo Wang
+      - Yingwei Wang*
+      - Jun He*
+    publisher: Laser & Photonics Reviews
+    releaseDate: 2023-02-05
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202200733"
+    summary: "Published in Laser & Photonics Reviews, 2023, 2200733. IF: 10.947, Q1."
+  - title: Solvent-stabilized few-layer violet phosphorus and its ultrafast nonlinear optics
+    authors:
+      - Li Zhou
+      - Jianlong Kang
+      - Yulan Dong
+      - Yiduo Wang
+      - Yejun Li
+      - Han Huang
+      - Si Xiao
+      - Yingwei Wang*
+      - Jun He*
+    publisher: Nano Research
+    releaseDate: 2022-12-13
+    url: "https://link.springer.com/article/10.1007/s12274-022-5262-8"
+    summary: "Published in Nano Research, 2023, 16, 5843–5849. IF: 10.269, Q1."
+  - title: "Two-dimensional noble transition-metal dichalcogenides for nanophotonics and optoelectronics: status and prospects"
+    authors:
+      - Yingwei Wang*
+      - Li Zhou
+      - Mianzeng Zhong
+      - Yanping Liu
+      - Si Xiao
+      - Jun He*
+    publisher: Nano Research
+    releaseDate: 2021-11-08
+    url: "https://link.springer.com/article/10.1007/s12274-021-3857-0"
+    summary: "Published in Nano Research, 2022, 15, 3675–3694. IF: 10.269, Q1."
+  - title: Emerging 2D material-based nanocarrier for cancer therapy beyond graphene
+    authors:
+      - Yingwei Wang
+      - Meng Qiu
+      - Miae Won
+      - Eugeine Jung
+      - Taojian Fan
+      - Ni Xie
+      - Sung-Gil Chic*
+      - Han Zhang*
+      - Jong Seung Kim*
+    publisher: Coordination Chemistry Reviews
+    releaseDate: 2019-09-09
+    url: "https://www.sciencedirect.com/science/article/pii/S0010854519303038"
+    summary: "Published in Coordination Chemistry Reviews, 2019, 400, 213041. IF: 24.833, Q1."
+  - title: 2D-ultrathin MXene/DOXjade platform for iron chelation chemo-photothermal therapy
+    authors:
+      - Yunjie Xu#
+      - Yingwei Wang#
+      - Jusung An#
+      - Adam C. Sedgwick#
+      - Mingle Li
+      - Jianlei Xie
+      - Weibin Hu
+      - Jianlong Kang
+      - Sajal Sen
+      - Axel Steinbrueck
+      - Bin Zhang
+      - Lijun Qiao
+      - Swelm Wageh
+      - Jonathan F. Arambula
+      - Liping Liu*
+      - Han Zhang*
+      - Jonathan L. Sessler*
+      - Jong Seung Kim*
+    publisher: Bioactive Materials
+    releaseDate: 2021-12-18
+    url: "https://www.sciencedirect.com/science/article/pii/S2452199X21005226"
+    summary: "Published in Bioactive Materials, 2021, 14, 76-85. IF: 16.874, Q1."
