@@ -1,5 +1,7 @@
 Team Member Introduction:
 
+**Mingxuan Du**
+
 Undergraduate Student, Class of 2023
 Email: 1401230103@csu.edu.cn
 
