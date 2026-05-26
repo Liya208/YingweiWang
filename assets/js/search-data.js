@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/YingweiWang/publications/";
           },
-        },{id: "nav-research-areas-amp-equipment-information",
-          title: "Research Areas &amp; Equipment Information",
+        },{id: "nav-research-areas-amp-equipment",
+          title: "Research Areas &amp; Equipment",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/YingweiWang/projects/";
+            window.location.href = "/YingweiWang/Research%20Areas%20&%20Equipment/";
           },
         },{id: "nav-repositories",
           title: "repositories",
