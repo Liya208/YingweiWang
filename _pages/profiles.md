@@ -26,7 +26,7 @@ profiles:
       <p>Teacher at Xiangnan University</p>
       <p>jlkang@csu.edu.cn</p>
   - align: right
-    image: prof_pic.jpg
+    image: zl.jpg
     content: about_zl.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -34,7 +34,7 @@ profiles:
       <p>Teacher at Anhui Normal University</p>
       <p>li_zhou@csu.edu.cn</p>
   - align: left
-    image: prof_pic.jpg
+    image: asad.jpg
     content: about_asad.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -42,7 +42,7 @@ profiles:
       <p>Ph.D. student at Zhengzhou University</p>
       <p>ahmedaxad910@gmail.com</p>
   - align: right
-    image: prof_pic.jpg
+    image: syj.jpg
     content: about_syj.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -50,7 +50,7 @@ profiles:
       <p>syj1008@csu.edu.cn</p>
       <p></p>
   - align: left
-    image: prof_pic.jpg
+    image: lx.jpg
     content: about_lx.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -58,7 +58,7 @@ profiles:
       <p>Joint Cultivation from Xinjiang University</p>
       <p>xin_li@stu.xju.edu.cn</p>
   - align: right
-    image: prof_pic.jpg
+    image: lq.jpg
     content: about_lq.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -66,7 +66,7 @@ profiles:
       <p>quanlong@csu.edu.cn</p>
       <p></p>
   - align: left
-    image: prof_pic.jpg
+    image: lfy.jpg
     content: about_lfy.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -74,7 +74,7 @@ profiles:
       <p></p>
       <p>lifengyu@csu.edu.cn</p>
   - align: right
-    image: prof_pic.jpg
+    image: zxm.jpg
     content: about_zxm.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -82,7 +82,7 @@ profiles:
       <p>xmzhong@csu.edu.cn</p>
       <p></p>
   - align: left
-    image: prof_pic.jpg
+    image: fyq.jpg
     content: about_fyq.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -90,7 +90,7 @@ profiles:
       <p></p>
       <p>252211040@csu.edu.cn</p>
   - align: right
-    image: prof_pic.jpg
+    image: yq.jpg
     content: about_yq.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -98,7 +98,7 @@ profiles:
       <p>252211030@csu.edu.cn</p>
       <p></p>
   - align: left
-    image: prof_pic.jpg
+    image: zwx.jpg
     content: about_zwx.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -106,7 +106,7 @@ profiles:
       <p>Graduated</p>
       <p>1407210125@csu.edu.cn</p>
   - align: right
-    image: prof_pic.jpg
+    image: chl.jpg
     content: about_chl.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -114,7 +114,7 @@ profiles:
       <p>changhaolin@csu.edu.cn</p>
       <p></p>  
   - align: left
-    image: prof_pic.jpg
+    image: dmx.jpg
     content: about_dmx.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -122,7 +122,7 @@ profiles:
       <p></p>
       <p>1401230103@csu.edu.cn</p>
   - align: right
-    image: prof_pic.jpg
+    image: zcx.jpg
     content: about_zcx.md
     image_circular: false # crops the image to make it circular
     more_info: >
