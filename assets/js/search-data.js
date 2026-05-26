@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/YingweiWang/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research-areas-amp-equipment-information",
+          title: "Research Areas &amp; Equipment Information",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/YingweiWang/projects/";
