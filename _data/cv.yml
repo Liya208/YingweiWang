@@ -4,7 +4,7 @@ cv:
   email: wyw1988@csu.edu.cn
   location: Princeton, NJ
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Focusing on the critical mechanisms, core materials, and key technologies required for next-generation information devices such as photonic and quantum chips, the research group conducts original basic and applied research on the interaction between light and matter at the micro- and nano-scales. Centered on physical challenges related to the coupling and control of multi-physical fields—including optical, electrical, and magnetic fields—at the micro- and nano-scales, the group develops novel nanophotonic devices characterized by broad spectral coverage, fast response times, and high sensitivity.
 
   social_networks:
     - network: X
@@ -47,42 +47,40 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Central South University, School of Physics
+        position: Associate Professor
+        location: Changsha, China
+        start_date: 2024.09
+        end_date: present
+        summary: 
         highlights:
-          - Relativity
-          - Description 2.
+          
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Central South University, School of Physics
+        position: Lecturer
+        location: Changsha, China
+        start_date: 2021.09
+        end_date: 2024.08
         highlights:
-          - Description 1.
-          - Description 2.
+         
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Central South University, School of Physics
+        position: Assistant Researcher
+        location: Changsha, China
+        start_date: 2019.11
+        end_date: 2021.09
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Korea University, College of Science
+        position: Research Professor
+        location: Seoul, South Korea
+        start_date: 2018.09
+        end_date: 2019.10
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Shenzhen University, College of Electronic Science and Technology
+        position: Postdoctoral Fellow
+        location: Shenzhen, China
+        start_date: 2017.06
+        end_date: 2018.09
 
     Volunteer:
       - company: People's Climate March
