@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-research-areas",
+          title: 'Research Areas',
+          description: "Schematic Diagram of the Research Group&#39;s Research Focus",
           section: "Projects",handler: () => {
               window.location.href = "/YingweiWang/projects/1_project/";
             },},{id: "projects-project-2",
