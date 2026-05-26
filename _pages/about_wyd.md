@@ -1,6 +1,7 @@
 Team Member Introduction
 
 **Yiduo Wang**
+
 Ph.D., Class of 2020 (Graduated / Postdoctoral Fellow at Institute of Physics, Chinese Academy of Sciences)
 Email: wangyd@csu.edu.cn
 
