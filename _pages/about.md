@@ -39,7 +39,6 @@ He is the Head of the Optics Group of the Hunan Provincial Key Laboratory of Ult
 
 The group fosters a strong scientific research atmosphere: rigorous and focused during work, brainstorming during group meetings, and collaborative problem-solving in the face of challenges. There is no unhealthy internal competition, only mutual support, allowing everyone to delve deeply into research and grow in a relaxed and pleasant environment.
 
-<div style="text-align: center;">
-    ![Group photo](/assets/img/ktz.jpg)
-    <p style="color: gray; font-size: 14px;">Group photo of the research group</p>
-</div>
+![Group photo](/assets/img/ktz.jpg)
+
+*Group photo of the research group*
