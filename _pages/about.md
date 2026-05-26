@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Ultrafast Nonlinear Optics Research Group, School of Physics, Central South University
+subtitle: <a href='#'>Updated on May 26, 2026</a>. Ultrafast Nonlinear Optics Research Group, School of Physics, Central South University
 
 profile:
   align: right
@@ -39,13 +39,7 @@ He is the Head of the Optics Group of the Hunan Provincial Key Laboratory of Ult
 
 The group fosters a strong scientific research atmosphere: rigorous and focused during work, brainstorming during group meetings, and collaborative problem-solving in the face of challenges. There is no unhealthy internal competition, only mutual support, allowing everyone to delve deeply into research and grow in a relaxed and pleasant environment.
 
-<!-- 带标题的居中图片 -->
 <div style="text-align: center;">
-    {% include figure.liquid 
-        path="assets/img/ktz.jpg" 
-        class="img-fluid rounded" 
-        caption="Group photo" 
-        zoomable=true 
-    %}
+    ![Group photo](/assets/img/ktz.jpg)
+    <p style="color: gray; font-size: 14px;">Group photo of the research group</p>
 </div>
-image: ktz.jpg
