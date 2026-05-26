@@ -1,5 +1,7 @@
 Team Member Introduction:
 
+**Chenxi Zhang**
+
 Undergraduate Student, Class of 2023
 Email: 8206230727@csu.edu.cn
 
