@@ -454,6 +454,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/YingweiWang/news/announcement_2/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/YingweiWang/news/announcement_5/";
             },},{id: "projects-research-areas",
           title: 'Research Areas',
           description: "Schematic Diagram of the Research Group&#39;s Research Focus",
