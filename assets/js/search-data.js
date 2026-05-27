@@ -454,8 +454,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/YingweiWang/news/announcement_2/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/YingweiWang/news/announcement_5/";
