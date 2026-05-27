@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/YingweiWang/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/YingweiWang/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-congratulations-to-dr-zhou-li-on-the-acceptance-of-her-latest-paper-photoinduced-interfacial-charge-transfer-tailors-second-harmonic-generation-in-nbse-mos-heterostructures-for-publication-in-nano-letters-if-9-9-q1",
           title: 'Congratulations to Dr. Zhou Li on the acceptance of her latest paper, “Photoinduced...',
           description: "",
-          section: "News",},{id: "projects-research-areas",
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/YingweiWang/news/announcement_2/";
+            },},{id: "projects-research-areas",
           title: 'Research Areas',
           description: "Schematic Diagram of the Research Group&#39;s Research Focus",
           section: "Projects",handler: () => {
