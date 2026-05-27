@@ -454,7 +454,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/YingweiWang/news/announcement_2/";
-            },},{id: "projects-research-areas",
+            },},{id: "news-we-warmly-welcome-researcher-pan-shilie-director-of-the-xinjiang-institute-of-physics-and-chemistry-recipient-of-the-national-science-fund-for-distinguished-young-scholars-who-has-been-invited-to-participate-in-the-distinguished-scholars-forum-hosted-by-the-school-of-physics-at-central-south-university-and-deliver-an-outstanding-academic-presentation-to-our-faculty-and-students-sparkles-smile",
+          title: 'We warmly welcome Researcher Pan Shilie, Director of the Xinjiang Institute of Physics...',
+          description: "",
+          section: "News",},{id: "projects-research-areas",
           title: 'Research Areas',
           description: "Schematic Diagram of the Research Group&#39;s Research Focus",
           section: "Projects",handler: () => {
