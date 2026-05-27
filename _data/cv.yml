@@ -4,7 +4,7 @@ cv:
   email: wyw1988@csu.edu.cn
   location: Princeton, NJ
   image: ""
-  summary: Focusing on the critical mechanisms, core materials, and key technologies required for next-generation information devices such as photonic and quantum chips, the research group conducts original basic and applied research on the interaction between light and matter at the micro- and nano-scales. Centered on physical challenges related to the coupling and control of multi-physical fields—including optical, electrical, and magnetic fields—at the micro- and nano-scales, the group develops novel nanophotonic devices characterized by broad spectral coverage, fast response times, and high sensitivity.
+  Research Interests: Focusing on the critical mechanisms, core materials, and key technologies required for next-generation information devices such as photonic and quantum chips, the research group conducts original basic and applied research on the interaction between light and matter at the micro- and nano-scales. Centered on physical challenges related to the coupling and control of multi-physical fields—including optical, electrical, and magnetic fields—at the micro- and nano-scales, the group develops novel nanophotonic devices characterized by broad spectral coverage, fast response times, and high sensitivity.
 
   social_networks:
     - network: X
@@ -23,28 +23,25 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: School of Physics and Electronics, Central South University
+        location: Changsha
+        url: https://faculty.csu.edu.cn/wangyingwei1/zh_CN/index/197072/list/index.htm
+        area: Condensed Matter Physics/Optics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2014
+        end_date: 2017
         score: ""
         courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+         
+      - institution: School of Physics and Electronics, Central South University
+        location: Changsha
+        area: Condensed Matter Physics/Optics
+        studyType: M.S. 
+        start_date: 2011
+        end_date: 2014
         highlights:
-          - Description 1.
-          - Description 2.
+       
 
     Experience:
       - company: Central South University, School of Physics
@@ -84,19 +81,34 @@ cv:
 
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Central South University “Shenghua Scholar”
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          
+        date: 2024
+        awarder: 
+        url: 
+        summary: 
 
-      - title: Max Planck Medal
+      - title: Hunan Province Outstanding Young Scholars Fund
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          
+        date: 2022
+        awarder:
+        summary:
 
+      - title: Central South University “Top Ten” Doctoral Student
+        authors:
+          
+        date: 
+        awarder: 
+        summary: 
     
+      - title: Central South University Outstanding Doctoral Dissertation
+        authors:
+          
+        date: 
+        awarder: 
+        summary: 
+
+      - title: Hunan Province Outstanding Graduate   
+        
