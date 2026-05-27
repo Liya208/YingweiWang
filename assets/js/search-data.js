@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/YingweiWang/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/YingweiWang/news/announcement_2/";
             },},{id: "news-congratulations-to-dr-zhou-li-on-the-acceptance-of-her-latest-paper-photoinduced-interfacial-charge-transfer-tailors-second-harmonic-generation-in-nbse-mos-heterostructures-for-publication-in-nano-letters-if-9-9-q1",
           title: 'Congratulations to Dr. Zhou Li on the acceptance of her latest paper, “Photoinduced...',
           description: "",
           section: "News",},{id: "news-congratulations-to-professor-wang-yingwei-on-the-acceptance-of-his-collaborative-paper-with-dr-wang-yiduo-of-the-chinese-academy-of-sciences-and-professor-zhao-chujun-of-hunan-university-titled-plasmon-driven-ultrafast-and-highly-efficient-saturable-absorption-for-ultrashort-pulse-generation-in-ultra-thin-mxenes-for-publication-in-advanced-optical-materials-if-8-2-q1",
           title: 'Congratulations to Professor Wang Yingwei on the acceptance of his collaborative paper with...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/YingweiWang/news/announcement_2/";
-            },},{id: "news-congratulations-to-dr-wang-yingwei-on-the-acceptance-of-his-collaborative-paper-with-professors-chen-keqiang-and-li-guogang-of-china-university-of-geosciences-titled-quaternary-phosphonium-bromide-passivation-for-high-performance-perovskite-quantum-dot-light-emitting-diodes-for-publication-in-the-journal-of-colloid-and-interface-science-if-9-7-q1-tada-tada-tada",
+          section: "News",},{id: "news-congratulations-to-dr-wang-yingwei-on-the-acceptance-of-his-collaborative-paper-with-professors-chen-keqiang-and-li-guogang-of-china-university-of-geosciences-titled-quaternary-phosphonium-bromide-passivation-for-high-performance-perovskite-quantum-dot-light-emitting-diodes-for-publication-in-the-journal-of-colloid-and-interface-science-if-9-7-q1-tada-tada-tada",
           title: 'Congratulations to Dr. Wang Yingwei on the acceptance of his collaborative paper with...',
           description: "",
           section: "News",},{id: "news-we-warmly-welcome-researcher-pan-shilie-director-of-the-xinjiang-institute-of-physics-and-chemistry-recipient-of-the-national-science-fund-for-distinguished-young-scholars-who-has-been-invited-to-participate-in-the-distinguished-scholars-forum-hosted-by-the-school-of-physics-at-central-south-university-and-deliver-an-outstanding-academic-presentation-to-our-faculty-and-students-sparkles-smile",
