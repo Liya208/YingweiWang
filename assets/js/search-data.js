@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/YingweiWang/blog/";
           },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "More information,Google Scholar,Yingwei Wang,https://scholar.google.com/citations?user=l1AHCH8AAAAJ&amp;hl=zh-CN; ORCID,http://orcid.org/0000-0003-1828-8420.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/YingweiWang/publications/";
+          },
         },{id: "nav-research-areas-amp-equipment",
           title: "Research Areas &amp; Equipment",
           description: "",
