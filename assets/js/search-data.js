@@ -445,7 +445,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/YingweiWang/news/announcement_2/";
-            },},{id: "news-congratulations-to-dr-zhou-li-on-the-acceptance-of-her-latest-paper-photoinduced-interfacial-charge-transfer-tailors-second-harmonic-generation-in-nbse-mos-heterostructures-for-publication-in-nano-letters-if-9-9-q1",
+            },},{id: "news-congratulations-to-dr-zhou-li-and-student-li-fengyu-on-the-acceptance-of-their-latest-paper-for-publication-in-the-chinese-journal-of-structural-chemistry-if-10-3-invited-review-for-the-special-issue-on-optical-crystal-materials-commemorating-the-110th-anniversary-of-lu-jiaxi-s-birth-clap-clap-clap",
+          title: 'Congratulations to Dr. Zhou Li and student Li Fengyu on the acceptance of...',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-dr-zhou-li-on-the-acceptance-of-her-latest-paper-photoinduced-interfacial-charge-transfer-tailors-second-harmonic-generation-in-nbse-mos-heterostructures-for-publication-in-nano-letters-if-9-9-q1",
           title: 'Congratulations to Dr. Zhou Li on the acceptance of her latest paper, “Photoinduced...',
           description: "",
           section: "News",},{id: "news-congratulations-to-professor-wang-yingwei-on-the-acceptance-of-his-collaborative-paper-with-dr-wang-yiduo-of-the-chinese-academy-of-sciences-and-professor-zhao-chujun-of-hunan-university-titled-plasmon-driven-ultrafast-and-highly-efficient-saturable-absorption-for-ultrashort-pulse-generation-in-ultra-thin-mxenes-for-publication-in-advanced-optical-materials-if-8-2-q1",
