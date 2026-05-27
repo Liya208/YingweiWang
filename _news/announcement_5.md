@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Congratulations to Dr. Wang Yingwei on the acceptance of his collaborative paper with Professors Chen Keqiang and Li Guogang of China University of Geosciences, titled “Quaternary phosphonium bromide passivation for high-performance perovskite quantum dot light-emitting diodes,” for publication in the *Journal of Colloid and Interface Science* (IF: 9.7; Q1)!
-img: assets/img/20260129news.jpg
 date: 2026-01-29 16:11:00-0400
 inline: false
 related_posts: false
