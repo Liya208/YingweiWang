@@ -31,7 +31,7 @@ cv:
         start_date: 2014
         end_date: 2017
         score: ""
-        courses: "Theory of Relativity"
+        courses:
         highlights:
          
       - institution: School of Physics and Electronics, Central South University
@@ -71,7 +71,7 @@ cv:
         position: Research Professor
         location: Seoul, South Korea
         start_date: 2018.09
-        end_date: 2019.10 
+        end_date: 2019.10. 
 
       - company: Shenzhen University, College of Electronic Science and Technology
         position: Postdoctoral Fellow
