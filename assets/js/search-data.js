@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/YingweiWang/blog/";
               },
-            },{id: "post-we-warmly-welcome-researcher-pan-shilie-director-of-the-xinjiang-institute-of-physics-and-chemistry-recipient-of-the-national-science-fund-for-distinguished-young-scholars-who-has-been-invited-to-participate-in-the-distinguished-scholars-forum-hosted-by-the-school-of-physics-at-central-south-university-and-deliver-an-outstanding-academic-presentation-to-our-faculty-and-students",
+            },{id: "post-welcome-nsfc-distinguished-young-scholar-pan-shilie-to-csu-physics-forum",
         
-          title: "We warmly welcome Researcher Pan Shilie, Director of the Xinjiang Institute of Physics...",
+          title: "Welcome NSFC Distinguished Young Scholar Pan Shilie to CSU Physics Forum!",
         
         description: "",
         section: "Posts",
