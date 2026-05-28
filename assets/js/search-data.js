@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/YingweiWang/blog/";
               },
-            },{id: "post-welcome-nsfc-distinguished-young-scholar-pan-shilie-to-csu-physics-forum",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/YingweiWang/blog/2026/2026-01-29-advanced-images/";
+          
+        },
+      },{id: "post-welcome-nsfc-distinguished-young-scholar-pan-shilie-to-csu-physics-forum",
         
           title: "Welcome NSFC Distinguished Young Scholar Pan Shilie to CSU Physics Forum!",
         
