@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  We warmly welcome Researcher Pan Shilie, Director of the Xinjiang Institute of Physics and Chemistry (recipient of the National Science Fund for Distinguished Young Scholars), who has been invited to participate in the “Distinguished Scholars Forum” hosted by the School of Physics at Central South University and deliver an outstanding academic presentation to our faculty and students!!!
+title:  Welcome NSFC Distinguished Young Scholar Pan Shilie to CSU Physics Forum!
 date: 2026-05-08 11:46:00
 description: 
 tags: formatting images
@@ -13,23 +13,9 @@ images:
 
  We warmly welcome Researcher Pan Shilie, Director of the Xinjiang Institute of Physics and Chemistry (recipient of the National Science Fund for Distinguished Young Scholars), who has been invited to participate in the “Distinguished Scholars Forum” hosted by the School of Physics at Central South University and deliver an outstanding academic presentation to our faculty and students!!!
 
-## Image Slider
-
-This is a simple image slider. It uses the [Swiper](https://swiperjs.com/) library. Check the [examples page](https://swiperjs.com/demos) for more information of what you can achieve with it.
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
-## Image Comparison Slider
-
-This is a simple image comparison slider. It uses the [img-comparison-slider](https://img-comparison-slider.sneas.io/) library. Check the [examples page](https://img-comparison-slider.sneas.io/examples.html) for more information of what you can achieve with it.
+## Conference Poster
 
 <img-comparison-slider>
-  {% include figure.liquid path="assets/img/prof_pic.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/prof_pic_color.png" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/psl260508.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/psl260508.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
