@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/YingweiWang/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-we-warmly-welcome-researcher-pan-shilie-director-of-the-xinjiang-institute-of-physics-and-chemistry-recipient-of-the-national-science-fund-for-distinguished-young-scholars-who-has-been-invited-to-participate-in-the-distinguished-scholars-forum-hosted-by-the-school-of-physics-at-central-south-university-and-deliver-an-outstanding-academic-presentation-to-our-faculty-and-students",
+        
+          title: "We warmly welcome Researcher Pan Shilie, Director of the Xinjiang Institute of Physics...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/YingweiWang/blog/2026/advanced-images/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -158,17 +169,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/YingweiWang/blog/2024/code-diff/";
-          
-        },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/YingweiWang/blog/2024/advanced-images/";
           
         },
       },{id: "post-a-post-with-vega-lite",
