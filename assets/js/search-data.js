@@ -94,6 +94,17 @@ ninja.data = [{
             window.location.href = "/YingweiWang/blog/2026/advanced-images/";
           
         },
+      },{id: "post-congrats-to-wang-yingwei-wang-yiduo-cas-amp-zhao-chujun-hunan-univ-on-adv-opt-mater-acceptance-if-8-2-q1",
+        
+          title: "Congrats to Wang Yingwei, Wang Yiduo (CAS), &amp; Zhao Chujun (Hunan Univ.) on...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/YingweiWang/blog/2026/advanced-images/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
