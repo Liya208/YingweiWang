@@ -17,6 +17,6 @@ Congratulations to Professor Wang Yingwei, and Professors Chen Keqiang and Li Gu
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/20260129news.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/20260129news.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/20260129news.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
