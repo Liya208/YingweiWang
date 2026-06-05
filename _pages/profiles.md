@@ -110,9 +110,26 @@ profiles:
     content: about_chl.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Master’s Student, Class of 2026</p>
       <p>Undergraduate Student, Class of 2022</p>
       <p>changhaolin@csu.edu.cn</p>
       <p></p>  
+    - align: left
+    image: syj.jpg
+    content: about_zzy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master’s Student, Class of 2026</p>
+      <p></p>
+      <p></p>
+  - align: right
+    image: syj.jpg
+    content: about_lhr.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master’s Student, Class of 2026</p>
+      <p></p>
+      <p></p> 
   - align: left
     image: dmx.jpg
     content: about_dmx.md
