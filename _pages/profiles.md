@@ -114,7 +114,7 @@ profiles:
       <p>Undergraduate Student, Class of 2022</p>
       <p>changhaolin@csu.edu.cn</p>
       <p></p>  
-    - align: left
+  - align: left
     image: syj.jpg
     content: about_zzy.md
     image_circular: false # crops the image to make it circular
